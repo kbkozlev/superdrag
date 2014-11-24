@@ -1,24 +1,24 @@
 <!ENTITY superdrag.title "Super Drag">
 
-<!ENTITY superdrag.link "Link">
-<!ENTITY superdrag.text "Text">
-<!ENTITY superdrag.search "Search">
-<!ENTITY superdrag.image "Image">
-<!ENTITY superdrag.cancel "Cancel">
+<!ENTITY superdrag.link "Линк">
+<!ENTITY superdrag.text "Текст">
+<!ENTITY superdrag.search "Търски">
+<!ENTITY superdrag.image "Изображение">
+<!ENTITY superdrag.cancel "Край">
 
-<!ENTITY superdrag.options.title "Super Drag Options">
-<!ENTITY superdrag.default.actions.title "Default Actions">
-<!ENTITY superdrag.default.actions.desc "This is what will happen when you release the mouse button.">
+<!ENTITY superdrag.options.title "Super Drag Опций">
+<!ENTITY superdrag.default.actions.title "Действия по подразбиране">
+<!ENTITY superdrag.default.actions.desc "Това ще се случи когато пуснете клавиша на мишката.">
 
-<!ENTITY superdrag.action.open.link.in.background.tab "Open link in background tab">
-<!ENTITY superdrag.action.open.link.in.foreground.tab "Open link in foreground tab">
-<!ENTITY superdrag.action.open.link.in.current.tab "Open link in current tab">
-<!ENTITY superdrag.action.ignore.link "Nothing">
+<!ENTITY superdrag.action.open.link.in.background.tab "Отворете линка в заден таб">
+<!ENTITY superdrag.action.open.link.in.foreground.tab "Отворете линка в преден таб">
+<!ENTITY superdrag.action.open.link.in.current.tab "Отворете линка в сегашния таб">
+<!ENTITY superdrag.action.ignore.link "Нищо">
 
-<!ENTITY superdrag.action.open.search.in.background.tab "Search in background tab">
-<!ENTITY superdrag.action.open.search.in.foreground.tab "Search in foreground tab">
-<!ENTITY superdrag.action.open.search.in.current.tab "Search in current tab">
-<!ENTITY superdrag.action.ignore.search "Nothing">
+<!ENTITY superdrag.action.open.search.in.background.tab "Търси в заден таб">
+<!ENTITY superdrag.action.open.search.in.foreground.tab "Търси в преден таб">
+<!ENTITY superdrag.action.open.search.in.current.tab "Търси в сегашен таб">
+<!ENTITY superdrag.action.ignore.search "Нищо">
 
 <!ENTITY superdrag.action.open.image.in.background.tab "Open image in background tab">
 <!ENTITY superdrag.action.open.image.in.foreground.tab "Open image in foreground tab">
